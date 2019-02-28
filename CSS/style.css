@@ -1,0 +1,22 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: maroon;
+
+}
+
+p {
+  font-family: Arial;
+}
+
+
+h2.aboutme {
+  font-family: cursive;
+}
+
+
+.title {
+  color: green;
+}
